@@ -25,11 +25,11 @@ export default class App extends Component {
 
     componentDidMount() {
         this.tl = TweenMax.from(this.cloud1, 1, { x: 200, ease: Bounce.easeOut })
-        TweenMax.from(this.cloud2, 1, { x: 200, ease: AudioBufferSourceNode.easeOut })
+        TweenMax.from(this.cloud2, 1, { x: 200, ease: Power1.easeOut })
         TweenMax.from(this.shadowofballon, 1, {yoyo: true, y: 15, ease: Power1.easeOut,repeat: (Infinity) })
         TweenMax.from(this.rectofballon, 1, {yoyo: true, y: 15, ease: Power1.easeOut,repeat: (Infinity) })
         TweenMax.from(this.ballonshadow, 1, { yoyo: true,y: 15, ease: Power1.easeOut,repeat: (Infinity) })
-        TweenMax.from(this.sun, 1, { x: -200, ease: AudioBufferSourceNode.easeOut })
+        TweenMax.from(this.sun, 1, { x: -200, ease: Power1.easeOut })
         TweenMax.from(this.balloncenter, 1, { yoyo: true,y: 15, ease: Power1.easeOut,repeat: (Infinity) })
         TweenMax.from(this.ballonstring2, 1, { yoyo: true,y: 15, ease: Power1.easeOut,repeat: (Infinity) ,yoyo: true})
         TweenMax.from(this.ballonstring1, 1, { y: 15, ease: Power1.easeOut,repeat: (Infinity),yoyo: true })

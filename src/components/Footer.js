@@ -26,20 +26,20 @@ export class Footer extends Component {
     }
 
     componentDidMount() {
-        this.tl = TweenMax.to(this.car1, 15, { x: 2500, ease: Bounce.easeOut, repeat: (Infinity) })
-        TweenMax.to(this.tire1, 15, { x: 2500, ease: Bounce.easeOut, repeat: (Infinity) })
-        TweenMax.to(this.tire2, 15, { x: 2500, ease: Bounce.easeOut, repeat: (Infinity) })
-        TweenMax.to(this.carpart1, 15, { x: 2500, ease: Bounce.easeOut, repeat: (Infinity) })
+        this.tl = TweenMax.to(this.car1, 15, { x: 2500, ease: Power1.easeOut, repeat: (Infinity) })
+        TweenMax.to(this.tire1, 15, { x: 2500, ease: Power1.easeOut, repeat: (Infinity) })
+        TweenMax.to(this.tire2, 15, { x: 2500, ease: Power1.easeOut, repeat: (Infinity) })
+        TweenMax.to(this.carpart1, 15, { x: 2500, ease: Power1.easeOut, repeat: (Infinity) })
 
-        TweenMax.to(this.car2, 15, { x: -2500, ease: Bounce.easeOut, repeat: (Infinity) })
-        TweenMax.to(this.tire3, 15, { x: -2500, ease: Bounce.easeOut, repeat: (Infinity) })
-        TweenMax.to(this.tire4, 15, { x: -2500, ease: Bounce.easeOut, repeat: (Infinity) })
-        TweenMax.to(this.carpart2, 15, { x: -2500, ease: Bounce.easeOut, repeat: (Infinity) })
+        TweenMax.to(this.car2, 15, { x: -2500, ease: Power1.easeOut, repeat: (Infinity) })
+        TweenMax.to(this.tire3, 15, { x: -2500, ease: Power1.easeOut, repeat: (Infinity) })
+        TweenMax.to(this.tire4, 15, { x: -2500, ease: Power1.easeOut, repeat: (Infinity) })
+        TweenMax.to(this.carpart2, 15, { x: -2500, ease: Power1.easeOut, repeat: (Infinity) })
 
-        TweenMax.to(this.car3, 15, { x: -2500, ease: Bounce.easeOut, repeat: (Infinity) })
-        TweenMax.to(this.tire5, 15, { x: -2500, ease: Bounce.easeOut, repeat: (Infinity) })
-        TweenMax.to(this.tire6, 15, { x: -2500, ease: Bounce.easeOut, repeat: (Infinity) })
-        TweenMax.to(this.carpart3, 15, { x: -2500, ease: Bounce.easeOut, repeat: (Infinity) })
+        TweenMax.to(this.car3, 15, { x: -2500, ease: Power1.easeOut, repeat: (Infinity) })
+        TweenMax.to(this.tire5, 15, { x: -2500, ease: Power1.easeOut, repeat: (Infinity) })
+        TweenMax.to(this.tire6, 15, { x: -2500, ease: Power1.easeOut, repeat: (Infinity) })
+        TweenMax.to(this.carpart3, 15, { x: -2500, ease: Power1.easeOut, repeat: (Infinity) })
     }
 
     render() {
