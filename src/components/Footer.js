@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Bounce, TweenMax, TimelineMax } from 'gsap'
 import '../App.css'
+import gsap from 'gsap'
 
 export class Footer extends Component {
     constructor(props) {

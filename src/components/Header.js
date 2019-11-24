@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Power1,Bounce, TweenMax, TimelineMax } from 'gsap'
 import '../App.css'
+import gsap from 'gsap'
 const yoyo=new TimelineMax({}).yoyo
 
 export default class App extends Component {
