@@ -1,0 +1,76 @@
+.cheerups {
+  background-image: url("./cheerups.png");
+  height: 300px;
+  background-position: center;
+  background-size: cover;
+}
+
+.trailer {
+  background-image: url("./trailertracker.png");
+  height: 300px;
+  background-position: center;
+  background-size: cover;
+}
+
+.adulting {
+  background-image: url("./adultingapp.png");
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+}
+
+.japan {
+  background-image: url("./japan.png");
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+}
+
+.comics {
+  background-image: url("./comics.png");
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+}
+
+.ecommerce {
+  background-image: url("./shoestore.png");
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  transition: 1s;
+}
+.card {
+  margin: 15px;
+}
+
+.works_description {
+  height: 100px;
+  color: #32b1c6;
+}
+
+.works {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.resumeIntro {
+  text-align: center;
+}
+
+.send,
+.reset {
+  margin: 5px;
+}
+
+.me {
+  background-image: url("./me.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  min-height: 400px;
+  width: 500px;
+}

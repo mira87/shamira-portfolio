@@ -1,0 +1,131 @@
+.cls-1 {
+  fill: #32b1c6;
+}
+.cls-2 {
+  fill: #ff9700;
+}
+.cls-3 {
+  fill: none;
+  stroke: #1e3435;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 7px;
+}
+.cls-4 {
+  fill: #c2f9ff;
+}
+.cls-5 {
+  fill: #7ebec1;
+}
+.cls-6 {
+  fill: #046663;
+}
+.cls-7 {
+  fill: #014949;
+}
+.cls-8 {
+  fill: #fff;
+}
+.cls-9 {
+  font-size: 46.47px;
+}
+.cls-14,
+.cls-9 {
+  font-family: MyriadPro-Regular, Myriad Pro;
+}
+.cls-10 {
+  letter-spacing: -0.01em;
+}
+.cls-11 {
+  letter-spacing: -0.04em;
+}
+.cls-12 {
+  letter-spacing: 0em;
+}
+.cls-13 {
+  letter-spacing: 0em;
+}
+.cls-14 {
+  font-size: 37.61px;
+}
+.cls-15 {
+  letter-spacing: 0em;
+}
+.cls-16 {
+  letter-spacing: -0.01em;
+}
+.cls-17 {
+  letter-spacing: -0.03em;
+}
+.cls-18 {
+  letter-spacing: 0em;
+}
+
+.foot-1 {
+  fill: #34666b;
+}
+.foot-2 {
+  fill: #353838;
+}
+.foot-3 {
+  fill: #ff9700;
+}
+.foot-4 {
+  fill: #636363;
+}
+.foot-5 {
+  fill: #c2f9ff;
+}
+.foot-6 {
+  fill: #662204;
+}
+
+h1 {
+  color: #32b1c6;
+}
+
+.contact {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.twitter {
+  background: #55acee;
+  color: white;
+}
+
+.github {
+  background: gray;
+  color: white;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+}
+
+.icon-bar {
+  position: fixed;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.break {
+  border-bottom: 2px solid #32b1c6;
+  margin: 100px 0;
+}
