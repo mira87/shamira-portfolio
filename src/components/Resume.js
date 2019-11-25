@@ -58,8 +58,8 @@ export class Resume extends Component {
                         <h2 className='text--sm-center text-wrap'>Full Stack Developer</h2>
                         <h4 className='text-sm-center text-wrap' >sjones.arise@gmail.com</h4>
                         <h4 className='text-sm-center text-wrap'>https://github.com/mira87/</h4>
-                        <h4 className='text-sm-center text-wrap'>https://www.linkedin.com/in/shamira-jones/</h4>
-                        <h4 className='text-sm-center text-wrap'> https://www.behance.net/shamirajones1/</h4>
+                        {/* <h4 className='text-sm-center text-wrap'>https://www.linkedin.com/in/shamira-jones/</h4>
+                        <h4 className='text-sm-center text-wrap'> https://www.behance.net/shamirajones1/</h4> */}
                     </div>
 
                     <hr></hr>
