@@ -75,9 +75,10 @@
   width: 500px;
 }
 
-.resumeIntro {
+.resume {
   margin: auto;
   width: 80%;
+  display: block;
 }
 
 .myForm {

@@ -49,7 +49,7 @@ export class Resume extends Component {
 
     render() {
         return (
-            <div className='container'>
+            <div className='container resume'>
                 <button onClick={this.toggleResume} >Toggle Resume</button>
                 <div style={this.resumeStyle()}>
 
