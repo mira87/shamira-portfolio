@@ -4,6 +4,9 @@ import Footer from './components/Footer'
 import Works from './components/Works'
 import Contact from './components/Contact'
 import Resume from './components/Resume'
+import About from './components/About'
+
+
 const img = '../public/images/trailertracker.png';
 
 
@@ -27,7 +30,7 @@ export class App extends Component {
         <div className='break'></div>
         <Resume />
         <div className='break'></div>
-
+        <About />
         <Contact />
         <Footer />
 

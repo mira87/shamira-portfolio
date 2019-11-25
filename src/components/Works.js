@@ -9,7 +9,7 @@ export class Works extends Component {
 
 
             <div className='works container'>
-                <h1>My Previous Works</h1>
+                <h1 className='text-lg-center text-sm-center text-wrap'>My Previous Works</h1>
                 <div className='row'>
                     <div className='col-lg-4 col-sm-12'>
                         <a href='http://cheerups2019.herokuapp.com'>

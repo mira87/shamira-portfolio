@@ -63,7 +63,7 @@ export class Resume extends Component {
                     </div>
 
                     <hr></hr>
-                    <h1 className='text--sm-center text-wrap'>PROFILE</h1>
+                    <h1 className='text-lg-center text-sm-center text-wrap'>PROFILE</h1>
 
                     <p>Full Stack Developer who loves to build code that remains semantic, functional, scalable, and responsive. Constantly holding myself to a high standard, I find it invigorating to develop code that uses best practices and sets new standards in User Experience. With a background in Graphic Design, I am familiar with the creative process and always aim to  build exceptional code that remains visually appealing.</p>
                     <hr></hr>

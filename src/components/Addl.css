@@ -72,7 +72,10 @@
   background-size: contain;
   background-repeat: no-repeat;
   min-height: 400px;
-  width: 500px;
+  width: 400px;
+  margin: auto;
+  display: block;
+  /* background: #32b1c6; */
 }
 
 .resume {
