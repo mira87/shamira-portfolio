@@ -14,13 +14,11 @@ export class App extends Component {
       <div>
         <div className="icon-bar">
 
-          <a href="#" className="github">
-            {/* <button className='btn '> */}
+          <a href="https://github.com/mira87" className="github">
             <i className="fab fa-github"></i>
-            {/* </button> */}
           </a>
-          <a href="#" className="twitter"><i className="fab fa-twitter"></i></a>
-          <a href="#" className="linkedin"><i className="fab fa-linkedin-in"></i></a>
+          <a href="https://twitter.com/onebellabrand" className="twitter"><i className="fab fa-twitter"></i></a>
+          <a href="https://www.linkedin.com/in/shamira-jones/" className="linkedin"><i className="fab fa-linkedin-in"></i></a>
 
 
         </div>
