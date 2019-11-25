@@ -85,10 +85,10 @@ export class Resume extends Component {
                     <strong>Adulting Task :<a target='_blank' href='http://adultingtasks.herokuapp.com'> http://adultingtasks.herokuapp.com'</a></strong>
                     <p>App for allowing those who are becoming adults to learn tasks that every adult should learn how to complete.</p>
 
-                    <strong>Japan’s Memory Duel: <a href='https://github.com/mira87/memory-game'>https://github.com/mira87/memory-game </a> /<a href='https://mira87.github.io/memory-game/'> https://mira87.github.io/memory-game</a></strong>
+                    <strong>Japan’s Memory Duel: <a href='https://github.com/mira87/memory-game'>https://github.com/mira87/memory-game </a></strong>
                     <p>Designed and developed an interactive game using HTML, JavaScript, and CSS to scale content and elements for mobile deployment.</p>
 
-                    <strong>Cheer Ups: <a target='_blank' href='https://cheerups2019.herokuapp.com/cheer /https://github.com/mira87/Cheer-Ups'>https://cheerups2019.herokuapp.com/cheer</a> / <a href='https://github.com/mira87/Cheer-Ups' target='_blank'> https://github.com/mira87/Cheer-Ups</a></strong>
+                    <strong>Cheer Ups: <a target='_blank' href='https://cheerups2019.herokuapp.com/cheer'>https://cheerups2019.herokuapp.com/cheer</a> /</strong>
                     <p>Created a full - stack application that encourages users.Frameworks used include MongoDB, Heroku, Mongoose, Express, JavaScript, HTML, and CSS.</p>
 
                     <strong> Trailer Tracker:<a target='_blank' href='https://dctalk1234.github.io/trailer-tracker-frontend/'> https://dctalk1234.github.io/trailer-tracker-frontend/</a></strong>
