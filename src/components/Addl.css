@@ -81,6 +81,10 @@
   display: block;
 }
 
+.text-wrap {
+  font-size: 10px;
+}
+
 .myForm {
   width: 80%;
   margin: auto;
