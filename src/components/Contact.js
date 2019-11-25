@@ -8,7 +8,7 @@ export class Contact extends Component {
                     <div className='me'>
                     </div>
 
-                    <div>
+                    <div className='myForm'>
 
                         <form action="mailto:sjones.arise@gmail.com" method="post" enctype="text/plain">
                             <div className='row'>

@@ -80,7 +80,8 @@
   width: 80%;
 }
 
-form {
+.myForm {
   width: 80%;
   margin: auto;
+  display: block;
 }
