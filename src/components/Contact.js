@@ -31,12 +31,13 @@ export class Contact extends Component {
 </textarea>
                                 </div>
                             </div>
-                            <div className='row'>
-                                <div className='col-lg-6 col-sm-12'>
-                                    <button className='send btn btn-primary' type="submit" value="Send">Send</button>
-                                    <button className='reset btn btn-primary' type="reset" value="Reset">Reset</button>
+                            <div className='container'>
+                                <div className='row'>
+                                    <div className='col-lg-6 col-sm-12'>
+                                        <button className='send btn btn-primary' type="submit" value="Send">Send</button>
+                                        <button className='reset btn btn-primary' type="reset" value="Reset">Reset</button>
+                                    </div>
                                 </div>
-
 
 
                             </div>
