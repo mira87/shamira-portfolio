@@ -58,7 +58,7 @@ export class Works extends Component {
                         </a>
                     </div>
                     <div className='col-lg-4 col-sm-12'>
-                        <a href='https://react-shoesre.netlify.com//'> <div className='card'>
+                        <a href='https://react-shoestore.netlify.com'> <div className='card'>
 
                             <div className='ecommerce'></div>
                             <h4 className='works_description'>Ecommerce </h4>
