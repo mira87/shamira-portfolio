@@ -88,7 +88,7 @@ export class Resume extends Component {
                     <h6>Japan’s Memory Duel</h6> <a href='https://github.com/mira87/memory-game'>https://github.com/mira87/memory-game </a>
                     <p>Designed and developed an interactive game using HTML, JavaScript, and CSS to scale content and elements for mobile deployment.</p>
 
-                    <h6>Cheer Ups</h6><a target='_blank' href='https://cheerups2019.herokuapp.com/cheer'>https://cheerups2019.herokuapp.com/cheer</a>
+                    <h6>Cheer Ups</h6><a target='_blank' href='https://cheerups2019.herokuapp.com/cheer'><p className='text-wrap'>https://cheerups2019.herokuapp.com/cheer</p></a>
                     <p>Created a full - stack application that encourages users.Frameworks used include MongoDB, Heroku, Mongoose, Express, JavaScript, HTML, and CSS.</p>
 
                     <h6> Trailer Tracker</h6><a target='_blank' href='https://dctalk1234.github.io/trailer-tracker-frontend/'> https://dctalk1234.github.io/trailer-tracker-frontend</a>
