@@ -54,12 +54,12 @@ export class Resume extends Component {
                 <div style={this.resumeStyle()}>
 
                     <div className='resumeIntro'>
-                        <h1 className='text-center text-wrap'>Shamira Jones</h1>
-                        <h2 className='text-center text-wrap'>Full Stack Developer</h2>
-                        <h4 className='text-center text-wrap' >sjones.arise@gmail.com</h4>
-                        <h4 className='text-center text-wrap'>https://github.com/mira87/</h4>
-                        <h4 className='text-center text-wrap'>https://www.linkedin.com/in/shamira-jones/</h4>
-                        <h4 className='text-center text-wrap'> https://www.behance.net/shamirajones1/</h4>
+                        <h1 className='text--sm-center text-wrap'>Shamira Jones</h1>
+                        <h2 className='text--sm-center text-wrap'>Full Stack Developer</h2>
+                        <h4 className='text-sm-center text-wrap' >sjones.arise@gmail.com</h4>
+                        <h4 className='text-sm-center text-wrap'>https://github.com/mira87/</h4>
+                        <h4 className='text-sm-center text-wrap'>https://www.linkedin.com/in/shamira-jones/</h4>
+                        <h4 className='text-sm-center text-wrap'> https://www.behance.net/shamirajones1/</h4>
                     </div>
 
                     <hr></hr>
