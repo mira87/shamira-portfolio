@@ -11,7 +11,7 @@ export class Works extends Component {
             <div className='works container'>
                 <h1>My Previous Works</h1>
                 <div className='row'>
-                    <div className='col-4'>
+                    <div className='col-lg-4 col-sm-12'>
                         <a href='http://cheerups2019.herokuapp.com'>
                             <div className='card'>
                                 <div className='cheerups'></div>
@@ -20,7 +20,7 @@ export class Works extends Component {
                         </a>
                     </div>
 
-                    <div className='col-4'>
+                    <div className='col-lg-4 col-sm-12'>
                         <a href='https://dctalk1234.github.io/trailer-tracker-frontend/'>
                             <div className='card'>
 
@@ -29,7 +29,7 @@ export class Works extends Component {
                             </div>
                         </a>
                     </div>
-                    <div className='col-4'>
+                    <div className='col-lg-4 col-sm-12'>
                         <a href='http://adultingtasks.herokuapp.com/'> <div className='card'>
 
                             <div className='adulting'></div>
@@ -40,7 +40,7 @@ export class Works extends Component {
 
 
                 <div className='row'>
-                    <div className='col-4'>
+                    <div className='col-lg-4 col-sm-12'>
                         <a href='https://mira87.github.io/memory-game/'>
                             <div className='card'>
                                 <div className='japan'></div>
@@ -49,7 +49,7 @@ export class Works extends Component {
                         </a>
                     </div>
 
-                    <div className='col-4'>
+                    <div className='col-lg-4 col-sm-12'>
                         <a href='http://mysuperheros.herokuapp.com/'>
                             <div className='card'>
                                 <div className='comics'></div>
@@ -57,7 +57,7 @@ export class Works extends Component {
                             </div>
                         </a>
                     </div>
-                    <div className='col-4'>
+                    <div className='col-lg-4 col-sm-12'>
                         <a href='https://react-shoesre.netlify.com//'> <div className='card'>
 
                             <div className='ecommerce'></div>
