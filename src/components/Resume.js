@@ -95,7 +95,7 @@ export class Resume extends Component {
                     <p> App that allows users to search Movie trailers in our database and OMBD’s database for the purpose of finding trailers for movies they may want to add to a playlist or category.Utilize frameworks including React, CSS, Express, MongoDB, Heroku, and Mongoose, and BootStrap.</p>
                     < hr ></hr >
 
-                    <h1 className='text-lg-center text-sm-center text-wrap'>EDUCATION</h1>
+                    <h1 className='text-lg-center text-sm-center'>EDUCATION</h1>
 
                     <strong>Full Sail University, Bachelors of Graphic Design	</strong>			02 / 2019 - 07 / 2021
 <br />
