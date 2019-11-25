@@ -82,16 +82,16 @@ export class Resume extends Component {
 
                     <h1>DEVELOPMENT EXPERIENCE</h1>
 
-                    <strong>Adulting Task :<a target='_blank' href='http://adultingtasks.herokuapp.com'> http://adultingtasks.herokuapp.com'</a></strong>
+                    <h6>Adulting Task</h6><a target='_blank' href='http://adultingtasks.herokuapp.com'> http://adultingtasks.herokuapp.com'</a>
                     <p>App for allowing those who are becoming adults to learn tasks that every adult should learn how to complete.</p>
 
-                    <strong>Japan’s Memory Duel: <a href='https://github.com/mira87/memory-game'>https://github.com/mira87/memory-game </a></strong>
+                    <h6>Japan’s Memory Duel</h6> <a href='https://github.com/mira87/memory-game'>https://github.com/mira87/memory-game </a>
                     <p>Designed and developed an interactive game using HTML, JavaScript, and CSS to scale content and elements for mobile deployment.</p>
 
-                    <strong>Cheer Ups: <a target='_blank' href='https://cheerups2019.herokuapp.com/cheer'>https://cheerups2019.herokuapp.com/cheer</a></strong>
+                    <h6>Cheer Ups</h6><a target='_blank' href='https://cheerups2019.herokuapp.com/cheer'>https://cheerups2019.herokuapp.com/cheer</a>
                     <p>Created a full - stack application that encourages users.Frameworks used include MongoDB, Heroku, Mongoose, Express, JavaScript, HTML, and CSS.</p>
 
-                    <strong> Trailer Tracker:<a target='_blank' href='https://dctalk1234.github.io/trailer-tracker-frontend/'> https://dctalk1234.github.io/trailer-tracker-frontend</a></strong>
+                    <h6> Trailer Tracker</h6><a target='_blank' href='https://dctalk1234.github.io/trailer-tracker-frontend/'> https://dctalk1234.github.io/trailer-tracker-frontend</a>
                     <p> App that allows users to search Movie trailers in our database and OMBD’s database for the purpose of finding trailers for movies they may want to add to a playlist or category.Utilize frameworks including React, CSS, Express, MongoDB, Heroku, and Mongoose, and BootStrap.</p>
                     < hr ></hr >
 

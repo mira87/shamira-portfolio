@@ -26,7 +26,7 @@ export class Contact extends Component {
                             <div className='row'>
                                 <div className='col-lg-6 col-sm-12'>
 
-                                    <textarea name="comment" rows="4" cols="17">
+                                    <textarea name="comment" rows="4" cols="18">
                                         Contact Me!
 </textarea>
                                 </div>
