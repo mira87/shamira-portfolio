@@ -5,6 +5,7 @@ import '../App.css'
 import gsap from 'gsap'
 const yoyo=new TimelineMax({}).yoyo
 
+gsap.registerPlugin(Power1)
 
 export default class App extends Component {
     constructor(props) {

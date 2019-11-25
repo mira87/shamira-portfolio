@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Power1, Bounce, TweenMax, TimelineMax } from 'gsap'
 import '../App.css'
 import gsap from 'gsap'
-
+gsap.registerPlugin(Power1)
 export class Footer extends Component {
     constructor(props) {
         super(props)
