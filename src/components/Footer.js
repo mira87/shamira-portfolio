@@ -1,6 +1,6 @@
-import React, { Component } from 'react'
+import React, { useRef, Component } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Bounce, TweenMax, TimelineMax } from 'gsap'
+import { Power1, Bounce, TweenMax, TimelineMax } from 'gsap'
 import '../App.css'
 import gsap from 'gsap'
 
