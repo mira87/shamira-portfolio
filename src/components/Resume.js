@@ -91,7 +91,7 @@ export class Resume extends Component {
                     <strong>Cheer Ups: <a target='_blank' href='https://cheerups2019.herokuapp.com/cheer'>https://cheerups2019.herokuapp.com/cheer</a> /</strong>
                     <p>Created a full - stack application that encourages users.Frameworks used include MongoDB, Heroku, Mongoose, Express, JavaScript, HTML, and CSS.</p>
 
-                    <strong> Trailer Tracker:<a target='_blank' href='https://dctalk1234.github.io/trailer-tracker-frontend/'> https://dctalk1234.github.io/trailer-tracker-frontend/</a></strong>
+                    <strong> Trailer Tracker:<a target='_blank' href='https://dctalk1234.github.io/trailer-tracker-frontend/'> https://dctalk1234.github.io/trailer-tracker-frontend</a></strong>
                     <p> App that allows users to search Movie trailers in our database and OMBD’s database for the purpose of finding trailers for movies they may want to add to a playlist or category.Utilize frameworks including React, CSS, Express, MongoDB, Heroku, and Mongoose, and BootStrap.</p>
                     < hr ></hr >
 
