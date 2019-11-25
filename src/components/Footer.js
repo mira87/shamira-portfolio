@@ -8,20 +8,7 @@ export class Footer extends Component {
     constructor(props) {
         super(props)
         this.tl = new TimelineMax({})
-        this.car1 = null;
-        this.tire1 = null;
-        this.tire2 = null;
-        this.carpart1 = null
 
-        this.car2 = null;
-        this.tire3 = null;
-        this.tire4 = null;
-        this.carpart2 = null
-
-        this.car3 = null;
-        this.tire5 = null;
-        this.tire6 = null;
-        this.carpart3 = null
 
     }
 
@@ -43,9 +30,24 @@ export class Footer extends Component {
     }
 
     render() {
+        const Loader = () => {
 
+            const car1 = useRef(null);
+            const tire1 = useRef(null);
+            const tire2 = useRef(null);
+            const carpart1 = useRef(null);
 
+            const car2 = useRef(null);
+            const tire3 = useRef(null);
+            const tire4 = useRef(null);
+            const carpart2 = useRef(null)
 
+            const car3 = useRef(null);
+            const tire5 = useRef(null);
+            const tire6 = useRef(null);
+            const carpart3 = useRef(null);
+
+        }
 
 
         return (
@@ -55,5 +57,7 @@ export class Footer extends Component {
         )
     }
 }
+
+
 
 export default Footer
